@@ -1,5 +1,19 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-linetable (0.0.3-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream version 0.0.3
+  * Refresh patches
+    - Drop 0001-Skip-failing-tests-on-Python-3.10.patch (fixed upstream)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Timo Röhling <roehling@debian.org>  Mon, 12 Jun 2023 14:33:52 +0200
+
+python-linetable (0.0.2-2) unstable; urgency=medium
+
+  * Source only upload.
+
+ -- Timo Röhling <roehling@debian.org>  Fri, 30 Dec 2022 10:06:01 +0100
+
+python-linetable (0.0.2-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1027185)
+
+ -- Timo Röhling <roehling@debian.org>  Thu, 29 Dec 2022 01:08:25 +0100
